@@ -1,5 +1,10 @@
 project:
   type: website
+  render: 
+    - "*.qmd"
+    - "*.md"
+    - "*.Rmd"
+    - "!advertisement/"
 
 website:
   title: "Coding Café"
@@ -7,6 +12,7 @@ website:
     right:
       - icon: github
         href: https://github.com/steno-aarhus/coding-cafe
+
 format:
   html:
     theme: cosmo
