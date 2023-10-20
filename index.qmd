@@ -1,13 +1,6 @@
 ---
 title: "Coding Café"
 subtitle: "Steno Diabetes Center Aarhus and Aarhus University"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
 page-layout: full
 execute: 
   message: false
