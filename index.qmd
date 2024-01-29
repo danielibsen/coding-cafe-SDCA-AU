@@ -13,28 +13,28 @@ Aarhus](https://www.stenoaarhus.dk/forskning/) (SDCA) and the
 [Department of Public Health at Aarhus University](https://ph.au.dk/)
 (AU-PH).
 
-The Coding Café is a place for anyone working at SDCA and/or AU-PH to
-get assistance with **coding** in R (and maybe other languages like
-Python in the future). The only prerequisite so far is that you have had
-some type of introduction to R, preferably through a course such as
-[this](https://r-cubed-intro.rostools.org/) one offered by the Danish
-Diabetes and Endocrinology Academy.
+The Coding Café is a bi-weekly open "café" for anyone working at SDCA,
+Aarhus University Hospital, Department of Public Health, Department of
+Clinical Medicine and Department of Biomedicine, Aarhus University to go
+and get assistance with **coding** in R. The only prerequisite so far is
+that you have had some type of introduction to R, preferably through a
+course such as [this](https://r-cubed-intro.rostools.org/) offered by
+the Danish Diabetes and Endocrinology Academy or similar introductory
+courses.
 
-The sessions are open and one can join in and out at anytime during the
-allotted time. There will be two instructors with experience working in
-R. We also highly encourage the participants to interact with each
+The sessions are open and anyone can join in and out at anytime during
+the allotted time. There will be two instructors with experience working
+in R. We also highly encourage the participants to interact with each
 other - maybe there is someone in the group that has the solution to
 your problem.
 
-During the sessions there will be free cake and coffee/tea - or whatever
-is appropriate for the time of the day. For the sessions at the
-Department of Public Health, Aarhus University, please write an email to
-[dbi\@ph.au.dk](mailto:dbi@ph.au.dk) or
-[jiezh\@ph.au.dk](mailto:jiezh@ph.au.dk) 1 week before to ensure there
-is cake for you. You are always free to join whether you have registered
-or not.
+During the sessions there will be coffee and tea - or whatever. If you
+want to get a calendar invitation to also receive updates if rooms or
+times are changed, please send an email to Daniel Ibsen,
+[dbi\@ph.au.dk](mailto:dbi@ph.au.dk). Otherwise, the latest schedule
+will always be on this website.
 
-## Upcoming schedule
+## Upcoming schedule - Schedule for 2024 semester coming soon!
 
 ```{r tbl-schedule}
 #| tbl-cap: "Upcoming dates, times, and locations for the Café sessions."
@@ -59,7 +59,7 @@ We suggest that you try to search on either Google or directly in
 useful to use AI-tools like ChatGPT-3 but beware that it can make up
 functions and that it does not always work.
 
-There are suggestions to try before asking a question.
+These are suggestions to try before asking a question.
 
 ### Asking a clear coding question
 
@@ -75,7 +75,7 @@ far.
 
 Many of us work with very sensitive data - especially those working in
 Denmark's Statistics (DST). If you are working on DST, or something
-similar where you are not allowed to show the data to enyone else, you
+similar where you are not allowed to show the data to anyone else, you
 need to prepare your question a bit more. We recommend that you find an
 example dataset that looks similar to the dataset you work with and make
 a coding example.
