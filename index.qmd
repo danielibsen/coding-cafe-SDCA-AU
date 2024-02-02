@@ -34,10 +34,10 @@ times are changed, please send an email to Daniel Ibsen,
 [dbi\@ph.au.dk](mailto:dbi@ph.au.dk). Otherwise, the latest schedule
 will always be on this website.
 
-## Upcoming schedule - Schedule for 2024 semester coming soon!
+## Upcoming schedule
 
 ```{r tbl-schedule}
-#| tbl-cap: "Upcoming dates, times, and locations for the Café sessions."
+#| tbl-cap: "Upcoming dates, times, and locations for the Café sessions. Note that the schedule can change. Either check this website or get on the calendar invitation where time and location is also updated"
 schedule <- read.csv(here::here("data", "schedule.csv"))
 knitr::kable(schedule)
 ```
