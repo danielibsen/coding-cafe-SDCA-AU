@@ -4,5 +4,5 @@
 .Ruserdata
 _site
 site_libs
-
+.Rbuildignore
 /.quarto/
