@@ -1,8 +1,8 @@
+name: Publish Website on Netlify
+
 on:
   push:
     branches: main
-
-name: build-deploy
 
 jobs:
   build-deploy:
