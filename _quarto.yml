@@ -1,5 +1,5 @@
 project:
-  type: website
+  type: sdca-theme
   render: 
     - "*.qmd"
     - "*.md"
@@ -8,21 +8,21 @@ project:
 
 website:
   title: "Coding Café"
+  site-url: "https://coding-cafe-sdca-au.netlify.com"
+  repo-url: "https://github.com/steno-aarhus/coding-cafe"
   navbar:
-    right:
+    pinned: true
+    tools:
       - icon: github
-        href: https://github.com/steno-aarhus/coding-cafe
+        href: "https://github.com/steno-aarhus/"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+      - icon: globe
+        href: directory.qmd
 
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    
-title-block-banner: images/banner-transparent.png
+format: sdca-theme-html
 
 editor: 
-  visual: default
-  markdown: 
+  markdown:
     wrap: 72
     canonical: true
-
